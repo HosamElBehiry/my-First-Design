@@ -3,7 +3,6 @@
   --secColor: #ec1c23;
 }
 body {
-  height: 5000px;
   font-family: "Handlee", cursive;
 }
 /*
@@ -222,3 +221,15 @@ nav.container {
   font-weight: bold;
 }
 /*End Latest Posts*/
+
+/*Start Footer*/
+footer {
+  padding: 20px;
+  background-color: #08526d;
+}
+footer p {
+  color: #fff;
+  font-weight: bold;
+  font-size: 1.4em;
+}
+/*End Footer*/
